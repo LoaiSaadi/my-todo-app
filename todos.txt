@@ -1,1 +1,3 @@
 Welcome to my Todo web app!
+Check the box to delete the todo
+Write down below the todo to add a new one
